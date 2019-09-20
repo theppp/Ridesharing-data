@@ -1,3 +1,3 @@
 # Ridesharing-data
 
-Exploratory data analysis for The Data Incubator
+Exploratory data analysis 
